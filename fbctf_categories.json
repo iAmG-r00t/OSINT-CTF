@@ -1,0 +1,40 @@
+{
+    "categories": [
+        {
+            "category": "LEVEL1: TEST",
+            "protected": false
+        },
+        {
+            "category": "Level2: Copyright",
+            "protected": false
+        },
+        {
+            "category": "Level3: Mapping",
+            "protected": false
+        },
+        {
+            "category": "Level4: Pivoting",
+            "protected": false
+        },
+        {
+            "category": "Level5: Dead Ends",
+            "protected": false
+        },
+        {
+            "category": "Level6: They Always Break",
+            "protected": false
+        },
+        {
+            "category": "None",
+            "protected": true
+        },
+        {
+            "category": "Quiz",
+            "protected": true
+        },
+        {
+            "category": "Try IT",
+            "protected": false
+        }
+    ]
+}
